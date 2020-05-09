@@ -63,6 +63,4 @@ public class Book {
 		super();
 		// TODO Auto-generated constructor stub
 	}
-	
-	
 }
